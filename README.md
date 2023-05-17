@@ -1,8 +1,10 @@
 # Redux Cart
 
+## This is a dummy application with Redux Cart
+
 ## React, CSS, Redux Toolkit
 
-### Demo - https://countervalue.onrender.com
+### Demo - https://reduxcart.onrender.com
 
 ---
 
