@@ -2,7 +2,7 @@
 
 ## This is a dummy application with Redux Cart
 
-## React, CSS, Redux Toolkit
+## React, CSS, Redux Toolkit, Firebase
 
 ### Demo - https://reduxcart.onrender.com
 
